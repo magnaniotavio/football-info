@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/football-info/static/css/main.e9cc1103.css",
+    "main.js": "/football-info/static/js/main.3a8c3dd6.js",
+    "index.html": "/football-info/index.html",
+    "main.e9cc1103.css.map": "/football-info/static/css/main.e9cc1103.css.map",
+    "main.3a8c3dd6.js.map": "/football-info/static/js/main.3a8c3dd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9cc1103.css",
+    "static/js/main.3a8c3dd6.js"
+  ]
+}
