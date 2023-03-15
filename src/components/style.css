@@ -1,6 +1,7 @@
 .body {
   margin-left: 15%;
   margin-right: 15%;
+
 }
 
 @viewport {
@@ -52,7 +53,14 @@ a{
 }
 
 .search-result-block {
-  background: whitesmoke
+  background: whitesmoke;
+  width: 60%;
+  font-size: medium;
+  text-align: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .title {
